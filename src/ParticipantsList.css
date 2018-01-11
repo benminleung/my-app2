@@ -1,0 +1,51 @@
+.table {
+	background-color: white;
+	margin-top: 10px;
+	border-collapse: collapse;
+}
+
+.button {
+	height: 20px;
+}
+
+.row {
+	height: 72px;
+	color: #505050;
+	font-size: 16px;
+	line-height: 24px;
+	font-weight: 400;
+	width: 917px;
+
+	
+}
+
+tr td{
+	padding: 0px 24px;
+	border-bottom: 1px solid #F1F1F1;
+}
+
+tr th {
+	padding: 0px 16px;
+	border-bottom: 1px solid #F1F1F1;
+}
+
+.listHeaderRow {
+	height: 48px;
+	color: #505050;
+	font-size: 14px;
+	line-height: 16px;
+	font-weight: 500;
+	width: 917px;
+}
+
+.dataName {
+	width: 20%;
+}
+
+.dataEmail {
+	width: 40%;
+}
+
+.dataPhone {
+	width: 40%;
+}
